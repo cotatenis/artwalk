@@ -1,0 +1,19 @@
+scrapy==2.5.0
+scrapy-magicfields==1.1.0
+google-cloud-storage==1.31.2
+google-auth==1.23.0
+discord-webhook==0.14.0
+typer==0.4.0
+dynaconf==3.1.5
+scrapy-selenium==0.0.7
+Pillow==8.3.2
+#necessário realizar downgrade devido a erro da versão 4.0.0 o qual o spidermon ainda nao atualizou.
+jsonschema==3.2.0
+#spidermon
+-e git://github.com/anapaulagomes/spidermon.git@add-discord-integration#egg=spidermon
+schematics
+python-slugify
+Jinja2
+slackclient
+sentry-sdk==1.4.3
+

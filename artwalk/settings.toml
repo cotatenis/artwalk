@@ -1,0 +1,26 @@
+[store]
+brands=[
+    'artwalk-male-adidas-originals',
+    'artwalk-female-adidas-originals',
+    'artwalk-kids-adidas-originals',
+    'artwalk-male-adidas-stansmith',
+    'artwalk-female-adidas-stansmith',
+    'artwalk-kids-adidas-stansmith',
+    'artwalk-male-adidas-superstar',
+    'artwalk-female-adidas-superstar',
+    'artwalk-kids-adidas-superstar',
+    'artwalk-adidas-zx',
+    'artwalk-adidas-ivypark',
+    'artwalk-male-nike-jordan',
+    'artwalk-female-nike-jordan',
+    'artwalk-male-nike-af1',
+    'artwalk-female-nike-af1',
+    'artwalk-male-nike-airmax',
+    'artwalk-female-nike-airmax',
+    'artwalk-male-nike-lebron',
+    'artwalk-female-nike-lebron',
+    'artwalk-kids-nike-lebron',
+    'artwalk-male-nike',
+    'artwalk-female-nike',
+    'artwalk-kids-nike'
+]
